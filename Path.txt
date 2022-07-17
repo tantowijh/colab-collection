@@ -1,4 +1,0 @@
-C:\ProgramData\ExpressVPN\v4\data
-
-https://www.expressvpn.com/latest/1#mac
-/Library/Application Support/com.expressvpn.ExpressVPN/data
